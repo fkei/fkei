@@ -95,5 +95,5 @@ Here are some ideas to get you started:
 
 <h4 align="left">Recommended project</h4>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cam-inc&repo=viron&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cam-inc&repo=viron&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
