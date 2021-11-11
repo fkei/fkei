@@ -93,6 +93,9 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkei&hide=html,css&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=fkei&theme=onedark&column=7
+)](https://github.com/fkei/github-profile-trophy)
+
 <h4 align="left">Recommended project</h4>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cam-inc&repo=viron&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
