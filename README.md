@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm fkei</h1>
-
-<h4 align="left">📫 Connect with me:</h4>
-
-| <a href="https://twitter.com/fkei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/x.svg" alt="fkei" height="30" width="20" /></a> | <a href="https://linktr.ee/fkei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/linktree.svg" alt="fkei" height="30" width="20" /></a> |
-| ------------- | ------------- |
+![](assets/hero.png)
 
 <h4 align="left">🌱 Languages and Tools:</h4>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img
@@ -68,4 +63,9 @@
 <h4 align="left">⚡Recommended project</h4>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cam-inc&repo=viron&title_color=7957D5&icon_color=FF3860&text_color=363636&bg_color=FFFFFF)
+
+<h4>📫 Connect with me:</h4>
+
+| <a href="https://twitter.com/fkei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/x.svg" alt="fkei" height="30" width="20" /></a> | <a href="https://linktr.ee/fkei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/linktree.svg" alt="fkei" height="30" width="20" /></a> |
+| ------------- | ------------- |
 
