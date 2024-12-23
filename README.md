@@ -63,7 +63,7 @@
 
 <h4 align="left">⚡Recommended project</h4>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cam-inc&repo=viron&title_color=7957D5&icon_color=FF3860&text_color=363636&bg_color=FFFFFF)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fkei&repo=JSON.minify&title_color=7957D5&icon_color=FF3860&text_color=363636&bg_color=FFFFFF)
 
 <h4>📫 Connect with me:</h4>
 
